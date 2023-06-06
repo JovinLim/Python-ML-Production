@@ -1,5 +1,5 @@
 # Python-ML-Production
-This repository shows a test machine learning pipeline that is done through Amazon Sagemaker.
+This repository shows a test machine learning pipeline of an MNIST dataset that is done through Amazon Sagemaker.
 The purpose of the pipeline being on Sagemaker was to automate the update of database to account for data drift in reality,
 the pipeline consists of every step in a typical machine learning production (with model training and evaluation) excluding data monitoring.
 
